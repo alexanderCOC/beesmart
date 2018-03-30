@@ -1,0 +1,7 @@
+Untuk : Pemakaian Google Chrome pada windows 64Bit
+
+Browser File Name : (64Bit)
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
+
+Browser File Name : (32Bit)
+"C:\Program Files\Google\Chrome\Application\chrome.exe"
